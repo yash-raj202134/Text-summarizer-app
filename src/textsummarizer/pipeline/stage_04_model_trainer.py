@@ -4,7 +4,7 @@ from textsummarizer.logging import logger
 
 
 
-class ModelTrainerPipeline:
+class ModelTrainerTrainingPipeline:
     def __init__(self):
         pass
 
