@@ -2,7 +2,7 @@ import os
 import yaml
 
 from typing import Any
-from pathlib import path
+from pathlib import Path
 from box import ConfigBox
 from ensure import ensure_annotations
 
