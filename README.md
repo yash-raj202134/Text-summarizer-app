@@ -1,4 +1,4 @@
-# Text Summarizer App
+# Text Summarizer App 🤖
 
 The Text Summarizer App uses the advanced Google Pegasus SamSum model for effective and efficient text summarization. This project is integrated with AWS services for CI/CD deployment, offering a streamlined process for creating, building, and launching the app using Docker and AWS services. It includes a Conda environment setup for seamless local operations and configurations.
 
